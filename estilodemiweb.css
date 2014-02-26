@@ -1,0 +1,16 @@
+.container {
+	width: 1170px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.cabecera {
+	float: left;
+}
+.menu {
+	border-top: 1px;
+}
+.post {
+	padding-bottom: 20px;
+}
